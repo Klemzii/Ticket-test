@@ -41,10 +41,10 @@
             "type":"ticket",
 
             "color":"gray",
-            "adminroles":["role id"],
-            "readonlyAdminroles":["role id"],
-            "channelprefix":"question-",
-            "category":"category id (or leave empty)",
+            "adminroles":["1255495503341424680"],
+            "readonlyAdminroles":["1255495503341424680"],
+            "channelprefix":"-",
+            "category":"1200423304176078880",
             "message":"You created a ticket!",
             "enableDmOnOpen":true,
             "ticketmessage":"The staff will help you soon!\n\n*Click on the button below to close the ticket!*",
@@ -60,7 +60,7 @@
 
             "closedCategory":{
                 "enable":false,
-                "id":"category id"
+                "id":"1200423304176078880"
             },
 
             "autoclose":{
