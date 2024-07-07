@@ -96,8 +96,8 @@
             "type":"role",
 
             "color":"red",
-            "roles":["discord role id"],
-            "mode":"add&remove|remove|add",
+            "roles":["1255495503341424680"],
+            "mode":"add&remove",
             "enableDmOnOpen":true
         }
     ],
