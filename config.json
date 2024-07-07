@@ -3,12 +3,12 @@
     "_SUPPORT":"https://discord.dj-dj.be",
     
     "color":"#ffffff",
-    "serverId":"server id (for slash cmds)",
+    "serverId":"1200423303534366740",
     "token":{
-        "value":"insert your bot token here",
+        "value":"MTI1OTU2ODk3NjU2OTA0MDk4MA.G-1Dyg.hoguGxYs0ZDQhde4L0wO4F12LmJfYJ9Xt7hl_8",
         "fromENV":false
     },
-    "adminRoles":["discord role id"],
+    "adminRoles":["1255495503341424680"],
     "prefix":"!ticket ",
     "languageFile":"english",
 
@@ -20,14 +20,14 @@
 
     "system":{
         "maxAmountOfTickets":3,
-        "dmMessages":false,
+        "dmMessages":true,
 
-        "memberRole":"member role (leave empty if you have no member role)",
-        "closeMode":"adminonly OR normal (select one!)",
+        "memberRole":"1259572798096150588",
+        "closeMode":"adminonly",
 
         "transcripts":"!!!! ALL SETTINGS FOR TRANSCRIPTS ARE LOCATED IN: transcriptconfig.json !!!!",
 
-        "showSlashcmdsInHelp":false,
+        "showSlashcmdsInHelp":true,
         "answerInEphemeralOnOpen":true
     },
 
